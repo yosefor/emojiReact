@@ -1,0 +1,5 @@
+# Whatsapp local auth storage
+.wwebjs_auth/session
+
+# npm moduls
+node_modules
